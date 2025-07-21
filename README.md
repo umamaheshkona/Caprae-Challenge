@@ -34,13 +34,13 @@ To build a tool in under 5 hours that:
 
 📁 Project Structure
 
-caprae-ai-readiness/
-├── ai_scored_leads.csv # Output dataset with AI scores
-├── app.py # Streamlit UI code
-├── leadgen.py # Lead generation + scoring script
-├── README.md # Full project documentation
-├── report.md # 1-page submission report
-└── video_script.txt # Video walkthrough script (for recording)
+    caprae-ai-readiness/
+    ├── ai_scored_leads.csv # Output dataset with AI scores
+    ├── app.py # Streamlit UI code
+    ├── leadgen.py # Lead generation + scoring script
+    ├── README.md # Full project documentation
+    ├── report.md # 1-page submission report
+    └── video_script.txt # Video walkthrough script (for recording)
 
 
 ---
@@ -88,15 +88,15 @@ Then go to http://localhost:8501 in your browser to explore the tool.
 🔄 Future Enhancements
 Given more time, the tool could evolve into a production-grade product with:
 
-🔍 Live scraping from LinkedIn/Crunchbase
-
-🧠 GPT/OpenAI-powered bio analysis
-
-✅ Email validation + enrichment APIs
-
-🔄 CRM Integration (HubSpot, Salesforce)
-
-📊 ICP filtering by industry, funding, geography
+    🔍 Live scraping from LinkedIn/Crunchbase
+    
+    🧠 GPT/OpenAI-powered bio analysis
+    
+    ✅ Email validation + enrichment APIs
+    
+    🔄 CRM Integration (HubSpot, Salesforce)
+    
+    📊 ICP filtering by industry, funding, geography
 
 🙋‍♂️ About Me
 Name: Kona Uma Mahesh
@@ -108,15 +108,15 @@ Why Caprae?
 📬 Final Notes
 This repository was built in response to Caprae Capital’s AI Readiness Challenge and includes:
 
-📄 Python scripts
-
-🧠 AI logic
-
-🖥️ Interactive UI
-
-📝 1-page report
-
-🎥 Video script
+    📄 Python scripts
+    
+    🧠 AI logic
+    
+    🖥️ Interactive UI
+    
+    📝 1-page report
+    
+    🎥 Video script
 
 
 

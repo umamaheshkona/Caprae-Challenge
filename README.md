@@ -78,10 +78,12 @@ By simulating how real AI lead scoring works:
 Then go to http://localhost:8501 in your browser to explore the tool.
 
 📊 Sample Output
-      Company	    Score	     Match Examples
-      RetailMax	   9    	"analytics", "real-time"
-      EduSmart	   8	       "AI", "learning"
-      FinVision	   8	       "fintech", "fraud"
+   | Company     | Score | Match Examples              |
+|-------------|:-----:|-----------------------------|
+| RetailMax   |  9    | `"analytics"`, `"real-time"`|
+| EduSmart    |  8    | `"AI"`, `"learning"`        |
+| FinVision   |  8    | `"fintech"`, `"fraud"`      |
+
 
 🔄 Future Enhancements
 Given more time, the tool could evolve into a production-grade product with:
